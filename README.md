@@ -58,19 +58,21 @@ In the final seating chart:
 - E1 and E2 are broken.
 - All other seats are free.
 
-## Output screenshots
+
+## Output Screenshots
 
 ### 1. Program output and seating chart
 
-![Program output and seating chart](screenshots/program-output.jpeg)
+<img src="./screenshots/program-output.jpeg" alt="Program output" width="600">
 
 ### 2. Questions and answers
 
-![Questions and answers](screenshots/questions-answers.jpeg)
+<img src="./screenshots/questions-answers.jpeg" alt="Questions and answers" width="600">
 
 ### 3. Bonus: Java record answer
 
-![Bonus record answer](screenshots/bonus-record-answer.jpeg)
+<img src="./screenshots/bonus-record-answer.jpeg" alt="Bonus record answer" width="600">
+
 
 ## Questions covered in the task
 
