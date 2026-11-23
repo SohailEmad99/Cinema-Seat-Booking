@@ -59,19 +59,21 @@ In the final seating chart:
 - All other seats are free.
 
 
+
 ## Output Screenshots
 
 ### 1. Program output and seating chart
 
-<img src="./screenshots/program-output.jpeg" alt="Program output" width="600">
+![Program Output](program-output.jpeg)
 
 ### 2. Questions and answers
 
-<img src="./screenshots/questions-answers.jpeg" alt="Questions and answers" width="600">
+![Questions and Answers](questions-answers.jpeg)
 
 ### 3. Bonus: Java record answer
 
-<img src="./screenshots/bonus-record-answer.jpeg" alt="Bonus record answer" width="600">
+![Bonus Answer](bonus-record-answer.jpeg)
+
 
 
 ## Questions covered in the task
